@@ -1,0 +1,15 @@
+    .container{
+        height: 100%;
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    .container > img {
+        flex:1 ;
+        height: 250px;
+        width: 250px;
+        min-width: 200px;
+        min-width: 200px;
+    }
